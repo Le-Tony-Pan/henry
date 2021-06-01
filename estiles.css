@@ -1,0 +1,20 @@
+﻿body{background: url('https://yucatanahora.mx/wp-content/uploads/2018/04/AA15-15.jpg');}
+img{width: 400px;}
+        #thirdDiv{width: 600px; height: 500px; 
+                background-color: gray; 
+                padding: 50px;
+                border-style: inset;
+                border-width: 10px;
+				}
+        #spanId{font-size: 18px; 
+				margin: 50px;
+				}
+		h1 {
+			color:lightskyblue
+		}
+		h3 {
+			color:blue
+		}
+		h4 {
+			color:lightskyblue
+		}
